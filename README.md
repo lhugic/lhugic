@@ -1,3 +1,5 @@
+### Data / Product Analyst
+
 ### 🛠 Технологический стек:
 * **Базы данных & Запросы:** SQL (PostgreSQL), написание оконных функций, оптимизация CTE.
 * **Анализ данных & Код:** Python (Pandas, Seaborn, Matplotlib).
