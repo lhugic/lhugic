@@ -1,9 +1,9 @@
 ### Data / Product Analyst
 
 ### 🛠 Технологический стек:
-* **Базы данных & Запросы:** SQL (PostgreSQL), написание оконных функций, оптимизация CTE.
+* **Базы данных & Запросы:** SQL (PostgreSQL).
 * **Анализ данных & Код:** Python (Pandas, Seaborn, Matplotlib).
-* **Визуализация & BI:** Yandex DataLens, сбор интерактивных дашбордов.
+* **Визуализация & BI:** Yandex DataLens.
 
 ### 📫 Связь:
 * **Telegram:** @hugic
