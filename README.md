@@ -1,4 +1,4 @@
-### Data / Product Analyst
+### Data Analyst
 
 ### 🛠 Технологический стек:
 * **Базы данных & Запросы:** SQL (PostgreSQL).
